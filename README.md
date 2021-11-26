@@ -1,7 +1,7 @@
 
 
-![](https://github-readme-stats.vercel.app/api?username=HarryPotter12352&show_icons=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryPotter12352&show_icons=true&show_icons=true&title_color=000&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=HarryPotter12352&show_icons=true&hide_border=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryPotter12352&show_icons=true&show_icons=true&title_color=000&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true&theme=radical)
 
 
 <h1>Programming Languages</h1>
