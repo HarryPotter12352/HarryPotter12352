@@ -1,16 +1,8 @@
-# Hey, I'm Harry 👋
+# Hey, I'm Aviral 👋
 
-![](https://github-readme-stats.vercel.app/api?username=HarryPotter12352&show_icons=true&hide_border=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryPotter12352&show_icons=true&show_icons=true&title_color=000&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true&theme=radical)
+- I'm a high school student from India with a keen interest in programming, especially for physics simulations.
+- I'm familiar with Python, JS, HTML, CSS, and C++
+- I'm also experienced with web development. Some of my projects include [my website](https://avirald.me) and a [website for a research organisation](https://astra-research.github.io/website).
+- Some of my physics utilities involve a [solver for the Brans-Dicke theory of gravitation](https://avirald.me/brans-dicke-calculator/) and [a script to compute all quantities pertaining to the Fermi-Dirac distribution](https://github.com/harrypotter12352/fermi-dirac-calculator)
 
-
-<h1>Programming Languages</h1>
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50 height=50>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=50 height=50>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=50 height=50></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=50 height=50>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=50 height=50></p>
-<img src="https://discord.c99.nl/widget/theme-2/737540230957105254.png">
-
-
-**© [HarryPotter12352](https://github.com/HarryPotter12352)**
+**© [Aviral Damle](https://avirald.me)**
